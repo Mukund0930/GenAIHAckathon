@@ -1,0 +1,28 @@
+{
+    "jsnow": {
+        "password_hash": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+        "name": "chennai Silk",
+        "craft": "silk printing and silk craftwork",
+        "art_description": "i make silk based work that enhances richness and boldness of the attire",
+        "products": {
+            "9542da3a-4344-4d41-aae1-e672c6753d8a": {
+                "name": "silk print rare",
+                "price": 10000.0,
+                "materials": "silk",
+                "description_story": "My journey began with a deep fascination for the transformative power of silk.  I've dedicated years to mastering techniques that allow me to coax the inherent richness and boldness from this exquisite fabric, creating pieces that elevate any attire. Each 'Silk Print Rare' is a testament to this dedication, a unique expression of my passion for enhancing the vibrancy of your wardrobe.  The subtle shifts in color, the delicate texture, even the faintest whisper of the silk's history \u2013 all are intended to bring a depth and luxury that surpasses the ordinary.",
+                "description_bullets": "- Hand-crafted silk print, showcasing unparalleled richness and boldness.\n- Made with 100% premium quality silk, ensuring a luxurious feel and drape.\n- Unique design; no two pieces are exactly alike.\n- A perfect addition to elevate any outfit, from casual to formal.\n- Ideal for gifting or adding a touch of elegance to your own wardrobe.",
+                "description_social": "Elevate your style with 'Silk Print Rare'! \u2728 Handcrafted from luxurious silk, this piece adds an unparalleled richness and boldness to any outfit.  Discover the artistry behind each unique design. #handmadesilk #artisancrafted #silkprint #uniquegifts #luxuryfashion #supportsmallbusiness",
+                "craft_type": "silk printing and silk craftwork"
+            },
+            "4463470c-b752-4bf7-aa99-f4f119acef93": {
+                "name": "digital saree",
+                "price": 2000.0,
+                "materials": "rayon",
+                "description_story": "My journey began with a deep fascination for the transformative power of silk. I've always felt that fabric should enhance, not overshadow, the wearer's inherent beauty and confidence.  While my passion lies in silk, this stunning digital saree utilizes luxurious rayon, chosen for its vibrant color retention and drape.  The result?  A piece that captures the richness and boldness I strive for in every creation, bringing a touch of my artistic vision to your wardrobe.",
+                "description_bullets": "- Digitally printed rayon saree \u2013 offering the vibrancy of silk at a more accessible price point.\n- Luxurious drape and comfortable wear, perfect for any occasion.\n- Bold and rich colors designed to enhance your natural radiance.\n- Ethically sourced and sustainably produced rayon.\n- Unique digital print guarantees a one-of-a-kind piece.\n- Easy to care for and maintain.",
+                "description_social": "Elevate your style with this breathtaking digital saree! \u2728 Crafted with luxurious rayon, this piece captures the bold richness I strive for in all my work. Shop now and experience the transformative power",
+                "craft_type": "silk printing and silk craftwork"
+            }
+        }
+    }
+}
